@@ -1,2 +1,2 @@
 Get the user details..
-Process the data..
+Process the data
